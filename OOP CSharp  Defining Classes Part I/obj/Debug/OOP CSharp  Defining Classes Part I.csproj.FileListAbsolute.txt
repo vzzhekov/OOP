@@ -1,0 +1,6 @@
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\bin\Debug\OOP CSharp  Defining Classes Part I.exe.config
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\bin\Debug\OOP CSharp  Defining Classes Part I.exe
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\bin\Debug\OOP CSharp  Defining Classes Part I.pdb
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\obj\Debug\OOP CSharp  Defining Classes Part I.csprojResolveAssemblyReference.cache
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\obj\Debug\OOP CSharp  Defining Classes Part I.exe
+C:\Users\vzhekov\Documents\GitHub\OOP CSharp  Defining Classes Part I\OOP CSharp  Defining Classes Part I\obj\Debug\OOP CSharp  Defining Classes Part I.pdb
